@@ -2,8 +2,8 @@
 var radius = 240; // how big of the radius
 var autoRotate = true; // auto rotate or not
 var rotateSpeed = -80; // unit: seconds/360 degrees
-var imgWidth = 300; // width of images (unit: px)
-var imgHeight = 200; // height of images (unit: px)
+var imgWidth = 200; // width of images (unit: px)
+var imgHeight = 150; // height of images (unit: px)
 
 // Link of background music - set 'null' if you dont want to play background music
 var bgMusicURL = 'https://api.soundcloud.com/tracks/143041228/stream?client_id=587aa2d384f7333a886010d5f52f302a';
